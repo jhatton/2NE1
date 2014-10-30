@@ -144,7 +144,7 @@ footer li a{
 }
 
 .language{
-	top:0px;
+	padding: 10px 0 10px 0;
     background: #2f3d2f;
     color: white;
     text-align: center;
@@ -154,6 +154,6 @@ footer li a{
 
 div.language h1{
     text-align: center;
-    font-size: 1.25em
+    font-size: 150%;
 }
 
